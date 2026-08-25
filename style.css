@@ -1,0 +1,11 @@
+.song-card {
+    background: #1a1a2e;
+    border-radius: 12px;
+    padding: 16px;
+    color: #f5c542
+}
+
+.artist {
+    color: #9aa0b5;
+    font-size: 14px;
+}
